@@ -1,0 +1,23 @@
+
+body{
+    background-color: aqua;
+    
+}
+
+img{
+    border-radius: 99999px
+}
+
+h1{
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+}
+h2{
+   border-color: yellow;
+    border-style: double;
+    border-width: 15px;
+
+    font-size: 75px;
+    padding-left: 550px;
+}
